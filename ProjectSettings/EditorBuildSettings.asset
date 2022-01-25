@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/__Scenes/Main Menu.unity
+    guid: 6e61c1c05464a494a85798280124fed9
+  - enabled: 1
+    path: Assets/__Scenes/Game Over.unity
+    guid: 3e3e590c1fa8ac947823b90d553e989b
+  - enabled: 1
+    path: Assets/__Scenes/Wave 1.unity
+    guid: f8f19b693e0ce244387eb835221a3ecd
+  - enabled: 1
+    path: Assets/__Scenes/Wave 2.unity
+    guid: 35980352335bb0a48bd497f785b15be8
+  - enabled: 1
+    path: Assets/__Scenes/Wave 3.unity
+    guid: 0f1840e6c5f6a834c93589ad068d192c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/__Scenes/Wave 4.unity
+    guid: 55f85e4a5358aa143818e8d480cd0d34
+  - enabled: 1
+    path: Assets/__Scenes/Boss Wave.unity
+    guid: 9a037d35fdc851a478da1105f92a12be
+  m_configObjects: {}

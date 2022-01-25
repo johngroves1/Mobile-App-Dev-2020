@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PowerUp
+  - PlayerBullet
+  - PowerUp2x
+  - PowerUp4x
+  - PowerUpInvul
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2721670745
+    locked: 0
+  - name: MovingThings
+    uniqueID: 1348956605
+    locked: 0
+  - name: Explosions
+    uniqueID: 1667363211
+    locked: 0
+  - name: Stars
+    uniqueID: 1331597857
+    locked: 0
+  - name: Waypoints
+    uniqueID: 2636404823
+    locked: 0
+  - name: Enemies
+    uniqueID: 3142008319
+    locked: 0
+  - name: PowerUps
+    uniqueID: 3417182067
+    locked: 0
